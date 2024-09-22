@@ -1,4 +1,4 @@
-# Bank Management Project
+# Game Projects
 
 ## Installation
 
